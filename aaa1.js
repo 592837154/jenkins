@@ -1,1 +1,1 @@
-console.log(1222);
+console.log('left');
