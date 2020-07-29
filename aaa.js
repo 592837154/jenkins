@@ -6,3 +6,4 @@ server.listen(1994, () => {
     console.log('start');
 
 })
+console.log(1);
