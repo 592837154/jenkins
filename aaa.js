@@ -7,3 +7,4 @@ server.listen(1994, () => {
 
 })
 console.log(1);
+console.log(2);
