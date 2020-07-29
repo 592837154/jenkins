@@ -8,3 +8,6 @@ server.listen(1994, () => {
 })
 console.log('left');
 console.log('left');
+console.log('right');
+
+console.log('right');
